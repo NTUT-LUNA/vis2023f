@@ -1,0 +1,14 @@
+{
+  "name": "082799d9837d2191",
+  "main": "082799d9837d2191@354.js",
+  "version": "354.0.0",
+  "homepage": "https://observablehq.com/d/082799d9837d2191",
+  "author": {
+    "name": "NTUT-LUNA's Workspace",
+    "url": "https://observablehq.com/@ntut-luna-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
